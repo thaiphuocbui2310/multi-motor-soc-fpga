@@ -65,7 +65,7 @@ This project serves as my undergraduate thesis and is planned to be extended int
 ## 👨‍💻 Author
 
 **Bui Thai Phuoc**  
-Control and Automation Engineering, DNUT  
+Control and Automation Engineering, DUT  
 📧 thaiphuocbui2310@gmail.com  
 🔗 [linkedin.com/in/thaiphuocbui](https://linkedin.com/in/thaiphuocbui)
 
